@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          이슈카드를 닫기 위한 변경
+          이슈카드를 닫기 위한 변경22
         </p>
         <a
           className="App-link"
